@@ -102,7 +102,10 @@ img {
 }
 
 .paragraph_one_parent {
-    margin-top: 100px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 .features_header {
@@ -110,4 +113,8 @@ img {
     font-weight: 700;
     margin-left: 70px;
     font-size: 40px
+}
+
+.google_play_badge {
+    
 }
