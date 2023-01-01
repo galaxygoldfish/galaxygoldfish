@@ -1,6 +1,6 @@
 ### Hi there, I'm Sebastian 👋
 
-- 👨🏻‍💻 I’m currently working on [Thunderstorm](https://github.com/galaxygoldfish/thunderstorm)
+- 👨🏻‍💻 I’m currently working on [Pineapple](https://github.com/galaxygoldfish/pineapple)
 - 🌴 I’m currently learning iOS/Android development
 - 🙍🏻‍♂️ Pronouns: he/him
 
