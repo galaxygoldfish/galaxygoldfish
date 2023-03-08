@@ -1,7 +1,8 @@
 ### Hi there, I'm Sebastian 👋
 
-- 👨🏻‍💻 I’m currently working on [Pineapple](https://github.com/galaxygoldfish/pineapple), [ScoutingApp](https://github.com/robototes/ScoutingApp) & [FRCFrenzy](https://github.com/galaxygoldfish/FRCFrenzy)
+- 👨🏻‍💻 I'm currently working on [Pineapple](https://github.com/galaxygoldfish/pineapple), [ScoutingApp](https://github.com/robototes/ScoutingApp) & [FRCFrenzy](https://github.com/galaxygoldfish/FRCFrenzy)
 - 🌴 I’m currently learning iOS/Android development
+- ⚡ Fun fact: Palm trees have the largest seeds of any plant in the world
 - 🙍🏻‍♂️ Pronouns: he/him
 
 #### Languages
