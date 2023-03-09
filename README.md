@@ -18,3 +18,9 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white&color=darkgreen)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&color=red)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&color=purple)
+#### Frameworks
+![Android](https://img.shields.io/badge/Android-%23F24E1E.svg?style=for-the-badge&logo=android&logoColor=black&color=lightgreen)
+![KMM](https://img.shields.io/badge/KMM-%23F24E1E.svg?style=for-the-badge&logo=jetbrains&logoColor=white&color=blueviolet)
+![Unity](https://img.shields.io/badge/Unity-%23F24E1E.svg?style=for-the-badge&logo=unity&logoColor=black&color=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23F24E1E.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&color=blue)
+![iOS](https://img.shields.io/badge/iOS-%23F24E1E.svg?style=for-the-badge&logo=apple&logoColor=white&color=gray)
