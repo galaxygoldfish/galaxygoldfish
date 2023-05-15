@@ -1,6 +1,6 @@
 ### Hi there, I'm Sebastian 👋
 
-- 👨🏻‍💻 I'm currently working on [Pineapple](https://github.com/galaxygoldfish/pineapple), [ScoutingApp](https://github.com/robototes/ScoutingApp) & [FRCFrenzy](https://github.com/galaxygoldfish/FRCFrenzy)
+- 👨🏻‍💻 I'm currently working on [Pineapple](https://github.com/galaxygoldfish/pineapple) & [GrooveChart](https://github.com/galaxygoldfish/groovechart)
 - 🌴 I’m currently learning iOS/Android development
 - 🙍🏻‍♂️ Pronouns: he/him
 
