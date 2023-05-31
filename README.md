@@ -17,14 +17,14 @@
 <div display="flex">
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Android.png" height="40" />
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/iOS.png" height="40" />
-  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/JetpackCompose.png" height="40" />
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Tailwind.png" height="40" />
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Unity.png" height="40" />
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/JetpackCompose.png" height="40" />
 </div>
 
 ### Software
 <div display="flex">
+   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Xcode.png" height="40" />
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Figma.png" height="40" />
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/AndroidStudio.png" height="40" />
-  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Xcode.png" height="40" />
 </div>
