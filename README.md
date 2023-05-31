@@ -4,7 +4,7 @@
 - 🌴 I’m currently learning iOS/Android development
 - 🙍🏻‍♂️ Pronouns: he/him
 
-#### Languages
+### Languages
 <div display="flex">
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Kotlin.png" height="40" />
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Swift.png" height="40" />
@@ -13,7 +13,7 @@
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Markdown.png" height="40" />
 </div>
 
-#### Frameworks
+### Frameworks
 <div display="flex">
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Android.png" height="40" />
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/iOS.png" height="40" />
@@ -22,7 +22,7 @@
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Unity.png" height="40" />
 </div>
 
-#### Software
+### Software
 <div display="flex">
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Figma.png" height="40" />
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/AndroidStudio.png" height="40" />
