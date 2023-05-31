@@ -1,7 +1,7 @@
 ### Hi there, I'm Sebastian 👋
 
 - 👨🏻‍💻 I'm currently working on [GrooveChart](https://github.com/galaxygoldfish/groovechart)
-- 🌴 I’m currently learning iOS/Android development
+- 🌴 I’m interested in Android development and design
 - 🙍🏻‍♂️ Pronouns: he/him
 
 ### Languages
