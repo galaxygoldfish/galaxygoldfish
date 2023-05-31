@@ -1,25 +1,30 @@
 ### Hi there, I'm Sebastian 👋
 
-- 👨🏻‍💻 I'm currently working on [Pineapple](https://github.com/galaxygoldfish/pineapple) & [GrooveChart](https://github.com/galaxygoldfish/groovechart)
+- 👨🏻‍💻 I'm currently working on [GrooveChart](https://github.com/galaxygoldfish/groovechart)
 - 🌴 I’m currently learning iOS/Android development
 - 🙍🏻‍♂️ Pronouns: he/him
 
 #### Languages
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=blueviolet)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&color=gray)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=oracle&logoColor=white&color=orange)
-#### Software
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=black&color=lightblue)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white&color=darkgreen)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&color=red)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&color=purple)
+<div display="flex">
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Kotlin.png" height="40" />
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Swift.png" height="40" />
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/CSS.png" height="40" />
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/HTML.png" height="40" />
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Markdown.png" height="40" />
+</div>
+
 #### Frameworks
-![Android](https://img.shields.io/badge/Android-%23F24E1E.svg?style=for-the-badge&logo=android&logoColor=black&color=lightgreen)
-![KMM](https://img.shields.io/badge/KMM-%23F24E1E.svg?style=for-the-badge&logo=jetbrains&logoColor=white&color=blueviolet)
-![Unity](https://img.shields.io/badge/Unity-%23F24E1E.svg?style=for-the-badge&logo=unity&logoColor=black&color=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23F24E1E.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&color=blue)
-![iOS](https://img.shields.io/badge/iOS-%23F24E1E.svg?style=for-the-badge&logo=apple&logoColor=white&color=gray)
+<div display="flex">
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Android.png" height="40" />
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/iOS.png" height="40" />
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/JetpackCompose.png" height="40" />
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Tailwind.png" height="40" />
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Unity.png" height="40" />
+</div>
+
+#### Software
+<div display="flex">
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Figma.png" height="40" />
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/AndroidStudio.png" height="40" />
+  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Xcode.png" height="40" />
+</div>
