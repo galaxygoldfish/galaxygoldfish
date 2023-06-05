@@ -29,8 +29,3 @@
    <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Unity.png" height="40" />
 </div>
 
-### Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=galaxygoldfish&amp;show_icons=true&amp;hide_border=false&amp;&amp;count_private=true&amp;include_all_commits=true&amp;hide=contribs&amp;theme=nord" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxygoldfish&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;langs_count=8&amp;theme=nord" height="180em">
-</p>
