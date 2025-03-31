@@ -10,7 +10,6 @@
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Swift.png" height="40" />
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/CSS.png" height="40" />
   <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/HTML.png" height="40" />
-  <img src="https://github.com/galaxygoldfish/galaxygoldfish/blob/main/badges/Markdown.png" height="40" />
 </div>
 
 ### Frameworks
